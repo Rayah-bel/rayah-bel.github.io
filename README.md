@@ -1,18 +1,20 @@
 # rayah-bel.github.io
 
-##Projects
-###Project 1
--Description
--Links
 
-###Project 2
--Description
--Links
+## Projects
+### Project 1
+- Description
+- Links
 
-#Education
--Some University
+### Project 2
+- Description
+- Links
 
-#Work History
--Workplace 1
--Workplace 2
+# Education
+- Some University
+
+# Work History
+- Workplace 1
+- Workplace 2
+
 
